@@ -15,7 +15,7 @@
     "autoload": {
         "psr-4": {
             "Support\\": "support",
-            "Src\\": "src"
+            "App\\": "src"
         }
     }
 }
