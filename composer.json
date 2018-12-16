@@ -14,7 +14,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Support\\": "support"
+            "Support\\": "support",
+            "Src\\": "src"
         }
     }
 }
